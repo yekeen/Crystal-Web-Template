@@ -1,0 +1,108 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+h1 {
+font: bold 20px ubuntu;
+}
+h2 {
+font: 14px bold ubuntu;
+}
+h3 {
+font: 10px bold ubuntu;
+}
+
+header, section, footer, aside, nav, article, hgroup{
+display:block;
+}
+
+body{
+width:100%;
+display:-webkit-box;
+-webkit-box-pack:center;
+
+}
+
+#big_wrapper {
+max-width: 1000;
+border: 1px solid #FFF000;
+margin: 20px auto;
+text-align: left;
+display:-webkit-box;
+-webkit-box-orient: vertical;
+-webkit-box-flex: 0;
+
+}
+
+#top_header {
+font: 30px ubuntu;
+background: orange;
+border: 1px solid grey;
+padding: 20px; 
+
+}
+
+#top_menu {
+background: grey;
+color: white;
+}
+
+#top_menu li{
+display: inline-block;
+padding: 5px;
+list-style:none;
+font: 14px ubuntu medium;
+
+}
+
+#main_section{
+
+float: left;
+width: 660px;
+margin: 30px;
+-webkit-box-flex:1;
+
+}
+
+#side_news{
+float: left;
+width: 230px;
+margin: 20px 0px;
+padding: 30px;
+margin-top: 30px auto;
+background: #66cccc;
+border: 1px solid grey;
+-webkit-box-border-radius: 25px;
+}
+
+#the_footer {
+clear: both;
+font: 15px ubuntu;
+text-align: center;
+padding: 20px;
+color: white;
+background: grey;
+border-top: 1px solid #FFF000;
+}
+
+article{
+background: #fffbcc;
+border: 1px solid grey;
+padding: 20px;
+margin-bottom: 15px;
+}
+
+article footer{
+text-align: right;
+}
+
+#new-div {
+display: -webkit-box;
+-webkit-box-orient: horizontal;
+}
+
+
+
+
+

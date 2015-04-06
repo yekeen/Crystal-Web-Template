@@ -1,0 +1,61 @@
+<html lang="en">
+<head>
+<title>
+Hey Dude!
+</title>
+<meta charset="utf-8"/>
+<link href="cool2.css" rel="stylesheet">
+
+</head>
+
+<body>
+<div id="big_wrapper">
+<header id="top_header">
+WELCOME TO MY PAGE
+</header>
+<div id="new_div">
+<nav id="top_menu">
+<ul id="top_menu">
+<li>home</li>
+<li>about</li>
+<li>me</li>
+<li>you</li>
+</ul>
+</nav>
+<p>
+<h1>Head-Light</h1>
+<h2>Bulb</h2>
+<h3>Dim-Light</h3>
+</p>
+
+<section id="main_section">
+
+<article>
+<h4>Article One</h4>
+This shit is really cool. So, hot, you can't handle it blah blah!!!!
+<footer>
+written by Yakeen
+</footer>
+</article>
+
+<article>
+<h4>Article two</h4>
+Another article!!!! Yet equally cool but just another article!!!!
+<footer>
+written by Yakeen
+</footer>
+</article>
+</section>
+
+<aside id="side_news">
+<h4>News</h4>
+I won the Oscars. But gave it away!!!
+</aside>
+</div>
+<footer id="the_footer">
+Copyleft Yekeen www.whitehatgroup.in
+</footer>
+
+</div>
+</body>
+</html>
